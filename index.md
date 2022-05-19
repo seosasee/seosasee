@@ -26,7 +26,7 @@ Please refer to the introduction site 😊
 **딥 딥 브라운(deep deep brown)**
 - (only ice)초코소스드리즐 + 초코파우더 1.5스쿱 + 우유150ml + 아이스크림 큰1스쿱 + 초코파우더 토핑
 
-**베리베리소다(berry berry soda)**
+**베리베리소다(very berry soda)**
 - (only ice)자두청1스쿱 + 믹스베리1.5스쿱 + 얼음 가득 + 소다 + 레몬슬라이스 첨가 + 녹색허브 토핑
 
 **포레스트슈페너(forest spanner)**
