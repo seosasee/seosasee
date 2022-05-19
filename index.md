@@ -2,7 +2,6 @@
 Please refer to the introduction site 😊
   - [naver page](http://naver.me/5RciOpRI)
   - [instagram page](https://www.instagram.com/cafemumoo)
-  - [kakao chat](http://pf.kakao.com/_fxfQSs)
   - [delivery service](https://baemin.me/N5ed-kfZi)
   
 ## Common
@@ -10,27 +9,27 @@ Please refer to the introduction site 😊
   - 층이 있는 음료 제조 시, 밀도가 높은 것을 아래에 위치시켜주세요.
     
     Ex) 파우더 녹인 우유 > 우유 > 에스프레소 > 물
-  - 배달 주문 요청사항과 음료 옵션 여부를 확인해주세요.
+  - 배달 주문 시, 요청사항과 음료 옵션 여부를 확인해주세요.
 
 ## Seasonal
 ```markdown
 **한여름의 크리스마스(christmas in summer)**
-- 자두청2스쿱 + 그린티파우더1.5스쿱 + 우유150ml + 크림4스쿱
+- (only ice)자두청2스쿱 + 그린티파우더1.5스쿱 + 우유150ml + 크림4스쿱
 
 **한라봉비앙코(hallabong bianco)**
-- 한라봉청2스쿱 + 우유 150ml + 에스프레소 + 크림4스쿱 + 레몬슬라이스 토핑
+- (only ice)한라봉청2스쿱 + 우유 150ml + 에스프레소 + 크림4스쿱 + 레몬슬라이스 토핑
 
 **딥 딥 브라운(deep deep brown)**
-- 초코소스드리즐 + 초코파우더1.5스쿱 + 우유150ml + 아이스크림 큰1스쿱 + 초코파우더 토핑
+- (only ice)초코소스드리즐 + 초코파우더1.5스쿱 + 우유150ml + 아이스크림 큰1스쿱 + 초코파우더 토핑
 
 **베리베리소다(six berry soda)**
-- 믹스베리 1.5스쿱 + 얼음 가득 + 소다 + 레몬슬라이스 첨가 + 녹색허브 토핑
+- (only ice)믹스베리 1.5스쿱 + 얼음 가득 + 소다 + 레몬슬라이스 첨가 + 녹색허브 토핑
 
 **포레스트슈페너(forest spanner)**
-- 초코소스드리즐 + 그린티파우더1.5스쿱 + 우유150ml + 에스프레소 + 크림4스쿱 + 그린티파우더 토핑
+- (only ice)초코소스드리즐 + 그린티파우더1.5스쿱 + 우유150ml + 에스프레소 + 크림4스쿱 + 그린티파우더 토핑
 
 **혼합된 차(blended tea)**
-- 선택된 티백1 + 선택된 티백2 우리기 및 혼합
+- (ice/hot)선택된 티백1 + 선택된 티백2 우리기 및 혼합
 ```
 
 
@@ -131,5 +130,6 @@ For more details see [Basic writing and formatting syntax](https://docs.github.c
 Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/seosasee/seosasee/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
 
 ### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+-  kakao chat : [click](http://pf.kakao.com/_fxfQSs)
+-  phone call : 0507-1495-9027[click](0507-1495-9027)
+-  e-mail : mumoo519@gmail.com
